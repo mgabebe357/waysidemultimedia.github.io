@@ -78,7 +78,7 @@ a:after {
 
 .navbar {
 	font-weight: 800;
-	font-size: 14px;
+	font-size: 15px;
 	padding-top: 15px;
 	padding-bottom: 15px;
 }
@@ -165,7 +165,7 @@ a:after {
 
 /* Dark Grey Wrap */
 #dg {
-	background: #111111;
+	background: #232323;
 	padding-top: 70px;
 	padding-bottom: 70px;
 	text-align: center;
@@ -177,7 +177,14 @@ a:after {
 
 /* Light Grey */
 #lg {
-	background: #232323;
+	background: #111111;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+
+#lg1 {
+	background: #111111;
 	padding-top: 70px;
 	padding-bottom: 70px;
 	text-align: center;
