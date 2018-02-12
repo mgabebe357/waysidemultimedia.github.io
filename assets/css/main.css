@@ -165,11 +165,12 @@ a:after {
 
 /* Dark Grey Wrap */
 #dg {
-	background: #232323;
+	background: #111111;
 	padding-top: 70px;
 	padding-bottom: 70px;
 	text-align: center;
 }
+
 
 #dg h4 {
 	font-weight: 700;
@@ -210,6 +211,24 @@ a:after {
 #r p {
 	color: white;
 }
+
+#ff {
+	background: #232323;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+
+
+
+#mm {
+	background: #232323;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+
+
 
 /* Blue Wrap */
 
